@@ -20,3 +20,4 @@
 18. MSA
 19. openshift
 20. electron.js
+21. CI/CD, jenkins, devops culture
